@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "shoppingList-app",
+    "slug": "shoppingList-app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/note.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#07B594"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
